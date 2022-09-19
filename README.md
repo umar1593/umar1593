@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Umar</h1>
-<h3 align="center">I'm a Python-developer</h3>
+## Hi 👋, I'm Umar
+### I'm a Python-developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
